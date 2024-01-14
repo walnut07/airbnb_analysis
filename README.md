@@ -1,5 +1,7 @@
 # Airbnb Data Analysis - Asian/Oceanian Cities
 
+### **This Google Slides explains the insights from this project: [What's unique in Tokyo's Airbnb?](https://docs.google.com/presentation/d/1z0cN8D5487iMU2LHZYWbVXIPFkOAec2CMpO5BrTvaZ4/edit?usp=sharing)**
+
 In this project, I'm going to conduct data analysis on Airbnb data in Asian/Oceanian cities. The data sets are downloaded from [Inside Airbnb](http://insideairbnb.com/explore).
 
 The cities I'm going to analyze are: \
